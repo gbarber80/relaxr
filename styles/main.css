@@ -1,0 +1,22 @@
+header {
+    background-image: url("https://raw.githubusercontent.com/generalassembly-studio/FEWD_Curriculum/master/Week_02_Styling/Assignment/solution_code/images/header_bg.jpg?token=AC_aFO0OKrz1d-IADcNb7Idq4-aa4Ocnks5VzQgLwA%3D%3D");
+    width: 800px;
+    height: 600px;
+}
+
+h2{
+	text-align: center;
+}
+
+p{
+	font-size: 12px:
+	}
+
+.button {
+	background-color: yellow;
+	font:10px;
+	font-weight: bold;
+	height:34px;
+    margin:0 auto;
+   
+}
